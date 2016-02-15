@@ -1,0 +1,12 @@
+Notes on data structures to look at
+List: -Simply a linked structure
+
+Set: -No need for order - no repeated values
+MultiSet:
+Map:
+MultiMap:
+Stack:
+Queue:
+Priority Queue:
+Tree:
+Graph:
